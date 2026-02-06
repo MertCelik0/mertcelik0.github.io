@@ -1,5 +1,3 @@
-# Kebab Empire Tycoon - Legal Documents
-
 ## Documents
 
 - [App Ads](app-ads.txt)
